@@ -20,7 +20,7 @@ I believe in deeply understanding every line of code I implement. Every script i
 ## 📦 Modules & Features
 *Current systems available in this repository:*
 
-- [x] **Advanced Movement System:** Physics-based mechanics (Dash, Impulse handling).
+- [x] **Basic Movement System:** (Dash, Impulse handling).
 - [ ] **Game Loop Handlers:** (Planned)
 - [ ] **Data Management:** (Planned)
 - [ ] **Utility Tools:** (Planned)
